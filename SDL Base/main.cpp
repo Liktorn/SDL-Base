@@ -7,8 +7,6 @@
 int main(int argc, char ** argv) {
 
 
-	
-
 	static int WIDTH = 800;
 	static int HEIGHT = 600;
 
